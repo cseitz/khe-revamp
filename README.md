@@ -19,7 +19,7 @@ All of KHE built from the ground up to meet modern standards and maintain simpli
   - Easy to maintain. Modular, so also easy to replace.
   - Designed simply, forward-thinking, and ready for future leaders to maintain.
 
-![I've seen enough. I'm satisfied][logo](https://i.kym-cdn.com/entries/icons/facebook/000/033/069/jojo.jpg "I've seen enough. I'm satisfied")
+<img src="https://i.kym-cdn.com/entries/icons/facebook/000/033/069/jojo.jpg" width="40%" alt="I've seen enough. I'm satisfied">
 
 # Installation
 Be sure NodeJS is installed.
@@ -58,7 +58,7 @@ This project is designed with simplicity in mind and should be able to withstand
     - `npm run serve` Runs the Vue project with live updating for development.
     - `npm run build` Build the Vue project for production use with the backend.
   - Backend
-    - `npm run dev` Runs the backend in development mode so no you can't break anything.
+    - `npm run dev` Runs the backend in development mode so you can't break anything.
     - `npm run production` Witness the fully power of this fully armed and operational battle station.
     - Same Vue commands when inside of `./staff` for development and building of the staff site.
 
