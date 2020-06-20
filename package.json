@@ -1,0 +1,23 @@
+{
+  "name": "khe-revamp",
+  "version": "1.0.0",
+  "description": "KHE Revamp Root Project",
+  "main": "index.js",
+  "scripts": {
+    "jsdoc": "node docgen.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cseitz5/khe-revamp.git"
+  },
+  "author": "Chris Seitz (cseitz5@kent.edu)",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/cseitz5/khe-revamp/issues"
+  },
+  "homepage": "https://github.com/cseitz5/khe-revamp#readme",
+  "dependencies": {
+    "jsdoc-to-markdown": "^6.0.1"
+  }
+}

@@ -75,6 +75,6 @@ Contributions are welcome, but it is critical that this project maintains its si
   - https://nodejs.org/en/docs/
   - https://cli.vuejs.org/guide/installation.html
   - https://vuejs.org/v2/guide/
-  - The fancy documentation I spent way too much time working on for your viewing pleasure!
+  - The [fancy documentation](./DOCUMENTATION.md) I spent way too much time working on for your viewing pleasure!
 
 ![Squirtle](https://i.giphy.com/media/5fQyd7jM58m5y/giphy.webp)
