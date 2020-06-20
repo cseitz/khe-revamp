@@ -1,0 +1,13 @@
+{
+  "name": "khe-backend",
+  "version": "1.0.0",
+  "description": "Kent Hack Enough Backend Server and Staff Site",
+  "main": "backend.js",
+  "scripts": {
+    "dev": "node backend.js --development",
+    "production": "node backend.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Chris Seitz (cseitz5@kent.edu)",
+  "license": "ISC"
+}
