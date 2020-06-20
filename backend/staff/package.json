@@ -1,0 +1,11 @@
+{
+  "name": "khe-staff-site",
+  "version": "1.0.0",
+  "description": "Kent Hack Enough Staff Site. UI only, logic is handled by Backend.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Chris Seitz (cseitz5@kent.edu)",
+  "license": "ISC"
+}
