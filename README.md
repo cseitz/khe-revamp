@@ -19,7 +19,9 @@ All of KHE built from the ground up to meet modern standards and maintain simpli
   - Easy to maintain. Modular, so also easy to replace.
   - Designed simply, forward-thinking, and ready for future leaders to maintain.
 
-<img src="https://i.kym-cdn.com/entries/icons/facebook/000/033/069/jojo.jpg" width="40%" alt="I've seen enough. I'm satisfied" style="border-radius: 25%">
+
+<img src="https://i.kym-cdn.com/entries/icons/facebook/000/033/069/jojo.jpg" width="40%" alt="I've seen enough. I'm satisfied">
+
 
 # Installation
 Be sure NodeJS is installed.

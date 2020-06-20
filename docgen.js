@@ -6,3 +6,9 @@ jsdoc2md.render({
 }).then(md => {
   fs.writeFileSync("backend/JSDOC.md", md);
 })
+
+jsdoc2md.render({
+  files: 'frontend/*.js',
+}).then(md => {
+  fs.writeFileSync("frontend/JSDOC.md", md);
+})
