@@ -2,7 +2,7 @@
 All of KHE built from the ground up to meet modern standards and maintain simplicity with updates.
 
 # This project has two repositories
-1. Frontend
+1. [Frontend](./frontend)
   - Uses Vue.js for UI
   - Vue is only required for important UI elements
   - The website can maintain functionality without being limited to reskins
@@ -10,10 +10,10 @@ All of KHE built from the ground up to meet modern standards and maintain simpli
   - Clear documentation on what components must be used, and how.
   - Build any website you want, just include the critical components. Boom! KHE site!
   - Retains original and working sample code for a fresh start if needed.
-2. Backend
+2. [Backend](./backend)
   - Uses Express and MongoDB
   - Handles all the important back-end stuff of KHE
-  - Includes the **Staff Site** frontend, which is structured similar to KHE frontend.
+  - Includes the [Staff Site](./backend/staff) frontend, which is structured similar to KHE frontend.
   - Staff Frontend also uses Vue.js for UI
   - Detailed documentation in every part of the project.
   - Easy to maintain. Modular, so also easy to replace.
@@ -25,9 +25,12 @@ All of KHE built from the ground up to meet modern standards and maintain simpli
 
 # Installation
 Be sure NodeJS is installed.
-*For reference, this was built using Node v13.12.0 and NPM 6.14.4*
+
+  *For reference, this was built using Node v13.12.0 and NPM 6.14.4*
 
 Install Vue's CLI service, if you haven't already.
+
+  *For reference, this was built using Vue CLI 4.1.2*
 ```
 npm install -g @vue/cli
 ```
