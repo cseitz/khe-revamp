@@ -1,8 +1,10 @@
 let path = require("path");
 
-exports.port = 3010;
+exports.port = 3050;
 
 exports.dist = path.join(__dirname, "../frontend/dist");
+exports.frontend = path.join(__dirname, "..", "frontend/dist");
+exports.staff = path.join(__dirname, "staff/dist");
 
 exports.staff_oauth = {
   "github": {
